@@ -1,6 +1,7 @@
 THIS IS A REDESIGN TEMPLATE FOR PERSONAL PROJECT USE
 
-![Alt text](screenshot/SCREESHOT.png?raw=true "Optional Title")
+![Alt text](/../HackthonNTU_2015/screenshot/SCREENSHOT.png?raw=true "Optional Title")
+
 
 
 
