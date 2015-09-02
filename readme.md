@@ -1,3 +1,10 @@
+THIS IS A REDESIGN TEMPLATE FOR PERSONAL PROJECT USE
+
+![Alt text](../OliviaChou/Desktop/HackthonNTU_2015/SCREESHOT.png?raw=true "Optional Title")
+
+
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 Hello,
 
 thank you for purchusing Universal. 
